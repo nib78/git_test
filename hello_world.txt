@@ -1,0 +1,1 @@
+Just a random text file to see how things work using git, GitHub and command prompts.
